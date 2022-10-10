@@ -1,3 +1,9 @@
 Eita! Mais um arquivo de texto
+<<<<<<< HEAD
 Eita estou na banch main
 E estou muito bem
+=======
+Uma nova coisa incluída
+Eita eu estou na master
+E estou conseguindo fazer os comandos git
+>>>>>>> origin/master
